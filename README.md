@@ -9,5 +9,5 @@
 
 ### 線型(LineTypes)
 
-### 腳本檔(AutoLisps and others)
+### 腳本檔(Scripts: AutoLisps and others)
 
